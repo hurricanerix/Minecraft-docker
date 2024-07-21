@@ -1,0 +1,5 @@
+server.jar
+server.properties
+world/*
+merge/*
+logs/*
