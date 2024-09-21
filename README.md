@@ -1,6 +1,6 @@
 # Minecraft Docker
 
-Dockerized minecraft server making it easy to manage setting up multiple minecraft java edition servers.
+Work in progress containerized minecraft server scripts.
 
 ## Usage
 
